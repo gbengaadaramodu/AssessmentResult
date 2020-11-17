@@ -1,0 +1,16 @@
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.exe
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.csprojAssemblyReference.cache
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfoInputs.cache
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfo.cs
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.CopyComplete
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.deps.json
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.runtimeconfig.json
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.runtimeconfig.dev.json
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.dll
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.pdb
+C:\GbengaA\Assessment\Assessment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.dll
+C:\GbengaA\Assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.pdb
